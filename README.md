@@ -54,6 +54,7 @@ The translated code will appear in the output area. Click the "Download Translat
 ## Notes
 - The AI translation may not be perfect, and manual adjustments might be required.
 - This application requires an OpenAI API Key, which you can obtain by signing up for an account at [https://www.openai.com](https://www.openai.com).
+- This work was motivated by the work done by @mckaywrigley work: https://github.com/mckaywrigley/ai-code-translator
 
 ## License
 
